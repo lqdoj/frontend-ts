@@ -1,1 +1,0 @@
-/* this is a collection of icons used in the website*/
